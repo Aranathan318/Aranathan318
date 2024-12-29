@@ -27,7 +27,7 @@ Here are some of the projects I’m working on:
 
 ## Let’s Connect  
 Feel free to explore my repositories and track my progress.  
-- Connect with me on [LinkedIn](www.linkedin.com/in/dean-isaac-337a2841)  
+- Connect with me on [www.linkedin.com/in/dean-isaac-337a2841]  
 - Email me at **[shuttermaven@yahoo.ca]**  
 
 Thank you for visiting!
